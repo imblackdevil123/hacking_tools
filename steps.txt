@@ -1,0 +1,24 @@
+1. mac_changer
+2.network_scanner
+3.arp_spoof
+4.net_cut
+5.dns_spoof 
+6.writing file interceptor(replace download file)
+7.code injector
+8.bypass HTTPS          ##########################################################
+9.arp_spoof_detector(impt to use window to run arp_spoof or any py script look this)######do this when net comes and become mim from windows and test for other script too
+                        ###########################################################
+fun part 
+we are going to write malware viruses keylogger backdoor etc and etc
+writing malware=writing evil code
+14.dow_exe_repo.py(lezagne work most execute in window do it when wifi hits in your home)
+credential harvestor
+exploit xss vulnerability
+target find code of moxie called SSLstrip
+
+this programs need python interpreter to run most linux distro comes with it but in window manually install python to run
+this is py interpretor not linux emulator .so if your code relies on  command of linux then window is not the one to run those script
+
+
+use lazagne if you have access to target computer.there is lazagne for windows it is used to provide username and password stored in your pc
+
