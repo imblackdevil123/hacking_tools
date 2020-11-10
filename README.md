@@ -31,3 +31,17 @@ https://github.com/GhostPack/Seatbelt
 011 SharpUp
 https://github.com/GhostPack/SharpUp
 
+
+
+
+
+013 Windows-Kernel-Exploits
+https://github.com/SecWiki/windows-kernel-exploits
+
+014 Kitrap0d-Information
+https://seclists.org/fulldisclosure/2010/Jan/341
+
+015 MS10-059
+https://github.com/SecWiki/windows-kernel-exploits/tree/master/MS10-059
+
+
