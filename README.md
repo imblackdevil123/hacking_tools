@@ -47,6 +47,7 @@ https://github.com/SecWiki/windows-kernel-exploits/tree/master/MS10-059
 
 Hacker news trend
 https://www.hntrends.com/
+https://sushant747.gitbooks.io/total-oscp-guide/
 
 
 
