@@ -49,3 +49,15 @@ Hacker news trend
 https://www.hntrends.com/
 
 
+
+017 Achat-Exploit
+https://www.exploit-db.com/exploits/36025
+
+017 Achat-Exploit-Metasploit
+https://www.rapid7.com/db/modules/exploit/windows/misc/achat_bof
+
+018 Plink-Download
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+
+
